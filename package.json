@@ -15,7 +15,7 @@
     ".gitignore",
     "app.json"
   ],
-  "keywords": [],
+  "keywords": [""],
   "author": "caracal-js and Amethyst Network contributors",
   "license": "GPL-3.0-or-later",
   "dependencies": {
